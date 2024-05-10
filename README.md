@@ -1,4 +1,4 @@
-# Javascript-Projects 💾
+# Javascript Projects 💾
 
 - Spearheaded the development of interactive web applications using JavaScript, ensuring seamless user experiences across multiple platforms.
 - Integrated third-party APIs and libraries to extend project functionalities and enrich user interactions.
